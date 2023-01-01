@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.logo{
+    height: 50px;
+    margin-left: 32px;
+}
+.naviMain{
+    height: 90px;
+    z-index: 2;
+}
+
+.ads2{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0%;
+}
+.banner{
+    position: relative;
+}
+.bimage{
+    z-index: 1;
+}
+.learnMore{
+    background-color: #E8194F;
+    border: 2px solid white;
+    position: absolute;
+    left: 300px;
+    bottom: 65px;
+    width: 170px;
+    text-align: center;
+    padding: 10px 0 0 0;
+    font-weight: bold;
+
+}
+i{
+margin-right: 5vw;
+color: white;         
+}
+
+.bg{
+   background-color: #009B4E;
+}
+.nav-link{
+    font-style: italic;
+}
+.nav-link:hover{
+    text-decoration: none;
+}
+.sm1{
+    margin-right: 30px;
+    
+}
+.sm1:hover{
+    cursor: pointer;
+}
+.bg-2{
+    width: 1526px;
+    height: 76px;
+    background-color: #E8194F;
+}
+.text-size{
+    color: white;
+    font-family: "AvenirNextLTW01-Medium";
+    font-size: 18px;
+}
+.signup-button{
+    color: #fff;
+    width: 17vw;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 900;
+    font-style: italic;
+    background-color: black;
+    border-color: #fff;
+}
+.signup-button:hover{
+    background-color: gray;
+}
+.third-content{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: white;
+}
+.f1-content{
+    margin-left: 60px;
+    overflow-y: hidden;
+}
+.thText{
+    color: black;
+}
+.ytcont{
+    display: flex;
+    justify-content: center;
+}
+#ytVid{
+    margin: 20px 0 50px 0;
+}
+h3{
+    padding-top: 50px;
+    font-style: italic;
+    font-weight: bolder;
+    color: white;
+}
+p{
+    font-family: "AvenirNextLTW01-Medium";
+    color: white;
+}
+footer{
+    background-color: #009B4E;
+}
+.container-footer{
+    background-color: #009B4E;
+    margin-top: -5px;
+}
+.ptb{
+    list-style: none;
+    font-size: 15px;
+    font-weight: bolder;
+    border-style: solid;
+    border-bottom: 3px;
+    border:hidden;
+}
+.ptb:hover{
+    color: black;
+    border-bottom: black;
+}
+
+ul{
+    line-height: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+a:hover{
+    color: green;
+}
+.rowCenter{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0 50px 0;
+}
+.lastDiv{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+}
